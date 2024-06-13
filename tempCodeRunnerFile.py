@@ -1,1 +1,0 @@
-e_mail, ticket_id, current_time, current_date
